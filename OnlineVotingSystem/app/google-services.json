@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622582417782",
+    "project_id": "indian-voting-app-ac05f",
+    "storage_bucket": "indian-voting-app-ac05f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622582417782:android:98479cac4f116603ab9257",
+        "android_client_info": {
+          "package_name": "com.example.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHN-BXw5-8nI0dZLGbkQLdK9vcmaxD98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
